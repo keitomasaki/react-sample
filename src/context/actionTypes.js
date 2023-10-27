@@ -1,0 +1,4 @@
+const SET_TODO = "SET_TODO";
+const DELETE_TODO = "DELETE_TODO";
+
+export { SET_TODO, DELETE_TODO };

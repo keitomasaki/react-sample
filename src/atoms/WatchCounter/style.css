@@ -1,0 +1,6 @@
+.watch-counter[data-invalid="false"] {
+  color: black;
+}
+.watch-counter[data-invalid="true"] {
+  color: red;
+}
